@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="pdsujnow/absa/ClusterAspect.java|pdsujnow/absa/SentClustering.java|pdsujnow/absa/L_EM.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/BasicTools"/>
+	<classpathentry kind="lib" path="/BasicTools/lib/mallet.jar" sourcepath="F:/mallet-2.0.7.zip"/>
+	<classpathentry kind="lib" path="lib/A.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
